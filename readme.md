@@ -228,6 +228,6 @@ public class NombreModeloController : ControllerBase
 [issues-shield]: https://img.shields.io/github/issues/mortroguez/EntityFrameworkSQL.svg?style=for-the-badge
 [issues-url]: https://github.com/mortroguez/EntityFrameworkSQL/issues
 [license-shield]: https://img.shields.io/github/license/mortroguez/EntityFrameworkSQL.svg?style=for-the-badge
-[license-url]: https://github.com/mortroguez/EntityFrameworkSQL/blob/main/LICENSE.md
+[license-url]: https://github.com/mortroguez/EntityFrameworkSQL/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ehitel-rodriguez-316a9b217/
